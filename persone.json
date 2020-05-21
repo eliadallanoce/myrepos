@@ -1,0 +1,12 @@
+[
+    {
+        "Nome": "Mario",
+        "Cognome": "Rossi",
+        "Eta": 30
+    },
+    {
+        "Nome": "Filippo",
+        "Cognome": "Neri",
+        "Eta": 50
+    }
+]
